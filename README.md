@@ -1,4 +1,4 @@
 # Qualitystudy-dome
 This is my first Git Repository 
 <br>
-Author-Ritunjay Singh
+Author-Ritunjay (gagan)
